@@ -1,0 +1,41 @@
+
+body {
+	background-image:url("background.png");
+
+}
+
+
+label
+{
+  float: left;
+  width: 300px;
+}
+
+form p
+{
+  clear: left;
+}
+input[type="text"]
+{
+  width: 250px;
+}
+
+#flexcontainer{
+	margin-left: 400px;
+}
+
+h3{
+	background-color: red;
+	width: 540px;
+	height: 20px;
+	padding: 10px;
+}
+.tekstall{
+	background-color:white;
+	margin-top: -20px;
+	padding: 5px;
+	width:550px;
+}
+	
+
+
